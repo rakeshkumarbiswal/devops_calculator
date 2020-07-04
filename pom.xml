@@ -20,9 +20,9 @@
 
   <distributionManagement>
   <snapshotRepository>
-    <id>calculator</id>
-    <name>calculator</name>
-    <url>http://localhost:8081/repository/calculator/</url>
+    <id>devops_calculator</id>
+    <name>devops_calculator</name>
+    <url>http://localhost:8081/repository/devops_calculator/</url>
   </snapshotRepository>
 </distributionManagement>
   
