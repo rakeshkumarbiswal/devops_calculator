@@ -18,6 +18,15 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
 
+  <distributionManagement>
+  <snapshotRepository>
+    <id>calculator</id>
+    <name>calculator</name>
+    <url>http://localhost:8081/repository/calculator/</url>
+  </snapshotRepository>
+</distributionManagement>
+  
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
