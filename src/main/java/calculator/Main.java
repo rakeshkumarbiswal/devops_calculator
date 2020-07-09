@@ -2,7 +2,6 @@ import calculator.*;
 import java.util.*;
 public class Main
 {
-    int pp;
     public static void main(String args[])
     {
         int flag=0,ch;
