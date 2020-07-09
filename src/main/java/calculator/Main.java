@@ -4,7 +4,6 @@ public class Main
 {
     public static void main(String args[])
     {
-        int pp;
         int flag=0,ch;
         double num1,num2;
         Scanner reader = new Scanner(System.in);
